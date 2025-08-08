@@ -1,4 +1,4 @@
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+https://chat.whatsapp.com/COLQpGwBjoL7dxZ0CJLv4g?mode=ac_t[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 # Push Kontak
 
 ***Push Kontak dibuat dengan nodejs menggunakan library [Bailyes](https://github.com/WhiskeySockets/Baileys)***
